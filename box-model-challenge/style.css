@@ -1,0 +1,117 @@
+
+.Surround {
+	border: 0px solid #ff0000;
+	width: 1000px;
+	margin: auto;
+	}
+
+.Main {
+	width: 800px;
+	border: 0px dashed green;
+	margin: auto;
+	padding: 25px 0px 25px 0px;
+	background-color: #ffffff;
+}
+
+.Main h2 {
+	margin-top: 0px;
+}
+
+.Header {
+	
+	height: 150px;
+	margin: auto;
+	font-family: Arial;	
+	background-color: #B0B3BA;
+	border-bottom: 3px solid #1D2537;
+}
+
+.Eye {
+	width: 800px;
+	margin: auto;
+	padding-top: 40px;
+}
+
+.Footer {
+	width: auto;
+	height: 150px;
+	background-color: #B0B3BA;
+	border-top: 3px solid #1D2537;
+}
+
+.Toe {
+	width: 800px;
+	margin: auto;
+	font-family: "Lucida Console", Monaco, monospace;
+	padding: 51px 0px 51px 0px;
+}
+
+.Image {
+	width: 250px;
+	background: #B0B3BA;
+	padding: 5px 5px 0px 5px;
+	margin: 0px 0px 20px 20px;
+	float: right;
+	overflow: auto;
+}
+
+.Sectional {
+	width: 1000px;
+	margin: 5px auto;
+	overflow: auto;
+	
+}
+
+.Mini-Section {
+	width: 231px;
+	padding: 10px;
+	margin: 20px 20px 20px 0px;
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #B0B3BA;
+	border: 1px solid #1D2537;
+	float: left;
+	overflow: auto;
+
+}
+.Mini-Section.Last {
+	margin-right: 0;
+	
+}
+
+
+.Mini-Section h2 {
+	margin-top: 0;
+}
+
+
+
+a.button {
+	background: #aaffaa;
+	border: 2px solid #00aa00;
+	color: #005500;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 2px;
+	padding: 7px;
+	float: left;
+	overflow: auto;
+}
+
+a.babybutton {
+	background: #7986AC;
+	border: 2px solid #162756;
+	color: #061439;
+	font-size: 12px;
+	text-decoration: underline;
+	margin: 2px;
+	padding: 2px;
+	float: right;
+}
+
+
+.Clearing {
+		clear:both;
+
+}
+
+}
